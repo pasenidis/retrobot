@@ -1,5 +1,7 @@
 # retrobot
 A minimalistic Discord server bot for my very own server.
+
+## Sample
 [![Clear-CHat.gif](https://i.postimg.cc/6p4bPDTP/Clear-CHat.gif)](https://postimg.cc/ZWZLBs8P)
 
 ## What can it do?
