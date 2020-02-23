@@ -1,6 +1,5 @@
 # retrobot
 A minimalistic Discord server bot for my very own server.
-[![React-Metronome.gif](https://i.postimg.cc/J0jQ1LV6/React-Metronome.gif)](https://postimg.cc/Lg6PTGsL)
 
 ## What can it do?
 Well, at the moment it can:
