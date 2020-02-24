@@ -45,6 +45,11 @@ async def unban(ctx, *, member):
             await ctx.guild.unban(user)
             await ctx.send(f':x: {user.name} was forgiven!')
 
+@client.command()
+async def announce(ctx, id, *, announcement):
+    channel = client.get_channel(int(id))
+    await channel.send(f'> {announcement} @everyone')
+
 # @client.command()
 # async def setstatus(ctx, status = 'Null'):
 #     await client.change_presence(activity=discord.Game(name=str(status)))
