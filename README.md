@@ -13,11 +13,11 @@ Well, at the moment it can:
 * Kick/Ban/Unban a user (you can also provide a reason)
 * Tell you your crappy Internet connection latency in milliseconds
 * Be an 8ball? Yes - it can. (just use r!8ball)
+* Make announcements (r!announce #channel message message message)
 
 ## To-do
 * On-join / on-leave direct messages.
 * Music features (play, stop, clear the queue)
-* Make announcements (r!announce #channel message message message)
 
 ## How-to add it on your server
 I created retrobot to give my a server a custom bot, although you can do whatever the GPLv3 license allows you to do, including creating your own version of it.
