@@ -4,20 +4,17 @@ A minimalistic Discord server bot for my very own server.
 ## Sample
 [![Clear-CHat.gif](https://i.postimg.cc/6p4bPDTP/Clear-CHat.gif)](https://postimg.cc/ZWZLBs8P)
 
-## What can it do?
-Well, at the moment it can:
-* Clear the chat (also works as the purge command)
-* Have a custom prefix (the default is r!)
-* Have a custom status (although that's kind of strange)
-* Update you when a user has joined/leaved (to make him happy/sad)
-* Kick/Ban/Unban a user (you can also provide a reason)
-* Tell you your crappy Internet connection latency in milliseconds
-* Be an 8ball? Yes - it can. (just use r!8ball)
-* Make announcements (r!announce #channel message message message)
-
-## To-do
-* On-join / on-leave direct messages.
-* Music features (play, stop, clear the queue)
+## Features
+[x]Clear the chat (also works as the purge command)
+[x] Have a custom prefix (the default is r!)
+[x] Have a custom status (although that's kind of strange)
+[x] Update you when a user has joined/leaved (to make him happy/sad)
+[x] Kick/Ban/Unban a user (you can also provide a reason)
+[x] Tell you your crappy Internet connection latency in milliseconds
+[x] Be an 8ball? Yes - it can. (just use r!8ball)
+[x] Make announcements (r!announce #channel message message message)
+[]  On-join / on-leave direct messages.
+[]  Music features (play, stop, clear the queue)
 
 ## How-to add it on your server
 I created retrobot to give my a server a custom bot, although you can do whatever the GPLv3 license allows you to do, including creating your own version of it.
